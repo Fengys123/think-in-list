@@ -1,0 +1,7 @@
+[package]
+name = "think-in-list"
+version = "0.1.0"
+authors = ["fys"]
+edition = "2018"
+
+[dependencies]
